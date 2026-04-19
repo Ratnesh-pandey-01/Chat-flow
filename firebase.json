@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "chatflow-633af",
+          "appId": "1:946902067778:android:ee50754dafbee4703b1bdb",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "chatflow-633af",
+          "configurations": {
+            "android": "1:946902067778:android:ee50754dafbee4703b1bdb",
+            "ios": "1:946902067778:ios:1a8bc53c81bc6a013b1bdb",
+            "macos": "1:946902067778:ios:1a8bc53c81bc6a013b1bdb",
+            "web": "1:946902067778:web:fe72e01a9fae95033b1bdb"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

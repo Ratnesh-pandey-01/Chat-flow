@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946902067778",
+    "project_id": "chatflow-633af",
+    "storage_bucket": "chatflow-633af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946902067778:android:ee50754dafbee4703b1bdb",
+        "android_client_info": {
+          "package_name": "com.example.chat_flow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8aJ5b-jAMr28FoJrvjiLBHttX6znhI0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
